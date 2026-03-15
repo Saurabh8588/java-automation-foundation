@@ -24,6 +24,6 @@ public class Day1EvenOdd {
             System.out.println("Odd");
     }
 
-// This is second code I have pushed from IDE.
+// This is second code I have pushed from IDE!!
 
 }
