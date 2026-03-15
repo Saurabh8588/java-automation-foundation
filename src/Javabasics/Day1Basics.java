@@ -15,7 +15,7 @@ public class Day1Basics {
             //Reverse a stg
             for (int i=obj.stg.length()-1; i>=0;i-- )
             System.out.print(obj.stg.charAt(i));
-            //Today I have pushed my first code on GitHub.
+            //Today I have pushed my first code on GitHub...
 
     }
 }
