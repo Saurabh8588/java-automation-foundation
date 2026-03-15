@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Day1EvenOdd {
     public static void main(String[] args) {
         //Even or Odd number
-        int a = 200;
+        int a = 33;
         //Static value
         if (a%2==0){
             System.out.println("Even");
